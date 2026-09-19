@@ -130,7 +130,7 @@ This concept can be used for:
 * A single LED provides limited illumination.  
 * The circuit is suitable mainly for small decorative applications.
 
-**13\. Result ![][image2]**
+**13\. Result ![result](Result.jpg)
 
 The **LED-based greeting card was successfully constructed using a 3V CMOS battery and a small LED**. When the circuit is completed, the LED glows and provides a lighting effect to the greeting card.
 
